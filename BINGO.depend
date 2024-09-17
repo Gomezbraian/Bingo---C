@@ -1,0 +1,121 @@
+# depslib dependency file v1.0
+1604055995 source:d:\aa codigos unla programacion\bingo versio final codeblocks\bingo\carton.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<windows.h>
+	"jugador.h"
+	"carton.h"
+	"puntos.h"
+
+1604055997 d:\aa codigos unla programacion\bingo versio final codeblocks\bingo\jugador.h
+
+1604055995 d:\aa codigos unla programacion\bingo versio final codeblocks\bingo\carton.h
+
+1604056634 d:\aa codigos unla programacion\bingo versio final codeblocks\bingo\puntos.h
+
+1604055996 source:d:\aa codigos unla programacion\bingo versio final codeblocks\bingo\jugador.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<windows.h>
+	"jugador.h"
+	"carton.h"
+	"puntos.h"
+
+1604056362 source:d:\aa codigos unla programacion\bingo versio final codeblocks\bingo\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"jugador.h"
+	"carton.h"
+	"puntos.h"
+
+1604055996 d:\aa codigos unla programacion\bingo versio final codeblocks\bingo\jugador.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<windows.h>
+	"jugador.h"
+	"carton.h"
+	"puntos.h"
+
+1604055995 d:\aa codigos unla programacion\bingo versio final codeblocks\bingo\carton.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<windows.h>
+	"jugador.h"
+	"carton.h"
+	"puntos.h"
+
+1604056119 d:\aa codigos unla programacion\bingo versio final codeblocks\bingo\puntos.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<windows.h>
+	"jugador.h"
+	"carton.h"
+	"puntos.h"
+
+1604056263 source:d:\aa codigos unla programacion\bingo versio final codeblocks\bingo\puntos.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<windows.h>
+	"jugador.h"
+	"carton.h"
+	"puntos.h"
+
+1604055995 source:c:\users\braian\desktop\programacion practica ahora\24-11-2020\bingo\carton.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<windows.h>
+	"jugador.h"
+	"carton.h"
+	"puntos.h"
+
+1604055997 c:\users\braian\desktop\programacion practica ahora\24-11-2020\bingo\jugador.h
+
+1604055995 c:\users\braian\desktop\programacion practica ahora\24-11-2020\bingo\carton.h
+
+1604056634 c:\users\braian\desktop\programacion practica ahora\24-11-2020\bingo\puntos.h
+
+1604055996 source:c:\users\braian\desktop\programacion practica ahora\24-11-2020\bingo\jugador.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<windows.h>
+	"jugador.h"
+	"carton.h"
+	"puntos.h"
+
+1604056362 source:c:\users\braian\desktop\programacion practica ahora\24-11-2020\bingo\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"jugador.h"
+	"carton.h"
+	"puntos.h"
+
+1604056263 source:c:\users\braian\desktop\programacion practica ahora\24-11-2020\bingo\puntos.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<windows.h>
+	"jugador.h"
+	"carton.h"
+	"puntos.h"
+
